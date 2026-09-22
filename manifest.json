@@ -2,7 +2,7 @@
   "name": "Recut",
   "short_name": "Recut",
   "description": "Same plate, new cut. Phase-based macro tracking built around the foods you already eat.",
-  "start_url": "./macro-engine-v2.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
