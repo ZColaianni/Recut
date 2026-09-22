@@ -12,7 +12,7 @@ const CACHE_NAME = 'recut-shell-v1';
    the app's HTML file is actually named if that ever changes. */
 const APP_SHELL = [
   './',
-  './macro-engine-v2.html',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png',
