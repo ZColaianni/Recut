@@ -1,0 +1,25 @@
+{
+  "name": "Recut",
+  "short_name": "Recut",
+  "description": "Same plate, new cut. Phase-based macro tracking built around the foods you already eat.",
+  "start_url": "./macro-engine-v2.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#141A15",
+  "theme_color": "#B8D444",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
